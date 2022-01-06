@@ -6,6 +6,7 @@ Simple and efficient -- a novel unsupervised community detection with the fusion
 
 
 Citation
+Please cite our paper if you use this code or our model in your own work:
 
 @inproceedings{qiu2022VGAER,\
               title={VGAER: graph neural network reconstruction based community
