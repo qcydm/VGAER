@@ -14,5 +14,5 @@ Please cite our paper if you use this code or our model in your own work:
 detection},\
               author={Qiu, Chenyang and Huang, Zhaoci and Xu, Wenzhe and Li, Huijia},       
               booktitle={AAAI: DLG-AAAI'22},              
-              year={20022}              
+              year={2022}              
  }
