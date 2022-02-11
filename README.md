@@ -3,7 +3,7 @@
 Simple and efficient -- a novel unsupervised community detection with the fusion of modularity and network structure:
 
 
-![VGAER_00](https://user-images.githubusercontent.com/42266769/153569499-46e0fc3d-952e-446a-84e6-5c17c2ea5eb4.jpg)
+![VGAER_00](https://user-images.githubusercontent.com/42266769/153569742-29bab396-2bf7-4f49-b6b8-790f74687a79.jpg)
 
 
 Citation
