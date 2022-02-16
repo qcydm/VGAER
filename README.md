@@ -11,8 +11,8 @@ Citation
 Please cite our paper if you use this code or our model in your own work:
 
 @inproceedings{qiu2022VGAER,\
-              title={VGAER: graph neural network reconstruction based community
-detection},\
+              title={VGAER: Graph Neural Network Reconstruction based Community
+Detection},\
               author={Qiu, Chenyang and Huang, Zhaoci and Xu, Wenzhe and Li, Huijia},       
               booktitle={AAAI: DLG-AAAI'22},              
               year={2022}              
