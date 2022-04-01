@@ -21,8 +21,6 @@ from model import GAER
 import torch.nn.functional as F
 # from algorithm
 
-from utils import load_data, loadppi
-
 from cluster import community
 from NMI import load_label, NMI, label_change
 from Qvalue import Q
