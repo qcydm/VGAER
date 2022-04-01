@@ -17,7 +17,6 @@ import csv
 import model
 from model import VGAERModel
 import torch.nn.functional as F
-from utils import load_data, loadppi
 from cluster import community
 from NMI import load_label, NMI, label_change
 from Qvalue import Q
