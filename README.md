@@ -19,13 +19,21 @@ Simple and efficient -- a novel unsupervised community detection with the fusion
 # Requirement
 
 dgl==0.8.0.post1
+
 matplotlib==3.5.1
+
 networkx==2.7.1
+
 numpy==1.22.3
+
 pandas==1.4.1
+
 scikit_learn==1.0.2
+
 scipy==1.8.0
+
 seaborn==0.11.2
+
 torch==1.11.0
 
 # Citation
