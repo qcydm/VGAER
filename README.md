@@ -16,6 +16,17 @@ Simple and efficient -- a novel unsupervised community detection with the fusion
 
 <img width="754" alt="1646717854(1)" src="https://user-images.githubusercontent.com/42266769/157173553-aa740d4e-12d5-413f-86d9-91cadc7916dc.png">
 
+# Requirement
+
+dgl==0.8.0.post1
+matplotlib==3.5.1
+networkx==2.7.1
+numpy==1.22.3
+pandas==1.4.1
+scikit_learn==1.0.2
+scipy==1.8.0
+seaborn==0.11.2
+torch==1.11.0
 
 # Citation
 
