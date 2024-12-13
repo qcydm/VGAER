@@ -1,6 +1,6 @@
 # Introduction
 
-One of my colleagues asked me: "What's your most practical skill in network science?" I told him:" **community detection**"! 
+One of my colleagues asked me: "What's your most practical skill in network science?" I told him:" **community detection**"! ！
 
 Whether you are a network science beginner, enthusiast, or expert, whether you study network data or other data networking, community detection technology will be able to accompany you at every stage of network analysis --- **from Network Data Preprocessing and Analyse, Network Visualization, Network Advanced Insight Acquisition...**
 
