@@ -16,9 +16,7 @@ Simple and efficient -- a novel unsupervised community detection with the fusion
 
 <img width="754" alt="1646717854(1)" src="https://user-images.githubusercontent.com/42266769/157173553-aa740d4e-12d5-413f-86d9-91cadc7916dc.png">
 
-#Get to Start
-
-# VGAER Model Code Guide
+# Get to Start--VGAER
 
 ## Overview
 
