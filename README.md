@@ -85,6 +85,9 @@ Contributions to the project are welcome. Please open an issue or submit a pull 
 
 This project was inspired by various research papers and open-source projects in the field of graph neural networks and community detection. We gratefully acknowledge their contributions to the field.
 
+We also thank the [willleeney/ugle](https://github.com/willleeney/ugle) project for referencing and integrating our VGAER model. We look forward to engaging with more open-source projects to jointly advance the development and application of technology.
+
+
 # Requirement
 
 dgl==0.8.0.post1
